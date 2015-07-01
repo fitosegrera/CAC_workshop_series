@@ -8,9 +8,9 @@ See folder /webFrontEnd
 
 #####Requirements
 
-1. Sublime Text [download]("http://www.sublimetext.com/")
+1. Sublime Text [download]("www.sublimetext.com/")
 
-2. Chrome Browser [download]("http://www.google.com/chrome/browser")
+2. Chrome Browser [download]("www.google.com/chrome/browser")
 
 #####Homework
 
@@ -24,13 +24,13 @@ BE CREATIVE!!
 
 #####Links and Resources
 
-[W3schools]("http://www.w3school.com/")
+[W3schools]("www.w3school.com/")
 
-[codepen]("http://www.codepen.io/")
+[codepen]("www.codepen.io/")
 
-[chrome_experiments]("http://www.chromeexperiments.com")
+[chrome_experiments]("www.chromeexperiments.com")
 
-[code_academy]("http://www.codeacademy.com")
+[code_academy]("www.codeacademy.com")
 
 
 ###WEEK 3 - Back End Web and GIT
@@ -41,9 +41,21 @@ See folder /webBackEnd
 
 #####Requirements
 
-1. NodeJS [download]("https://nodejs.org/")
+1. NodeJS [download]("nodejs.org/")
 
-2. Python 2.7.x [download]("http://www.python.org/downloads") (ONLY FOR WINDOWS USERS SINCE PYTHON IS ALREADY INSTALLED ON LINUX AND MACOSX)
+2. Python 2.7.x [download]("www.python.org/downloads") (ONLY FOR WINDOWS USERS SINCE PYTHON IS ALREADY INSTALLED ON LINUX AND MACOSX)
+
+3. Register an account on [GITHUB]("www.github.com")
+
+4. Install git on your laptop.
+
+MAC Users: please follow the instructions on [THIS LINK]("www.alvinalexander.com/mac-os-x/how-install-git-mac-os-x-osx"). There are 3 installation options for MAC on this link. My suggestion is to go for the first option. If you are comfortable with the Terminal interface then you can adventure with option 2. The 3rd option on this link is the Graphical Interface; I don't recommend it since I don't know how to use it. You can also download and install from [HERE]("git-scm.com/download/mac")
+
+LINUX Users: Open a terminal window and type the following command.
+
+		sudo apt-get install git
+
+WINDOWS Users: download and install from the following [LINK]("git-scm.com/download/win")
 
 #####Github Basic Commands
 
@@ -69,12 +81,12 @@ See folder /webBackEnd
 
 #####Links and Resources
 
-[npm]("https://www.npmjs.com/")
+[npm]("www.npmjs.com/")
 
 [pypi]("pypi.python.org/pyp") 
 
-[code_academy]("http://www.codeacademy.com")
+[code_academy]("www.codeacademy.com")
 
-[github]("https://github.com/")
+[github]("github.com/")
 
-[github_traning]("https://training.github.com/")
+[github_traning]("training.github.com/")
